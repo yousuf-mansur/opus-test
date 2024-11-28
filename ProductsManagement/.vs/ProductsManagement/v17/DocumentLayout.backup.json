@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|c:\\users\\hp\\desktop\\opustest\\productsmanagement\\productsmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|c:\\users\\hp\\desktop\\opustest\\productsmanagement\\productsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|c:\\users\\hp\\desktop\\opustest\\productsmanagement\\productsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|c:\\users\\hp\\desktop\\opustest\\productsmanagement\\productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|c:\\users\\hp\\desktop\\opustest\\productsmanagement\\productsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69F555B-7B48-492F-BE8F-BFDD52AD8B51}|ProductsManagement\\ProductsManagement.csproj|solutionrelative:productsmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:12:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductsManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductsManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T05:52:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Program.cs",
+              "RelativeToolTip": "ProductsManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:49:22.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\appsettings.json",
+              "RelativeToolTip": "ProductsManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T05:49:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductsManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\OpusTest\\ProductsManagement\\ProductsManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductsManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:49:16.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
